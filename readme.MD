@@ -1,0 +1,22 @@
+Angular 2+ Fundamentals Course
+========================
+This is the getting started package for the Pluralsight course on Angular 2 Fundamentals found here: http://app.pluralsight.com/courses/angular-fundamentals
+
+
+Getting Started
+---------------
+Be sure you're running the recommended node version, which is 6.3.0+: `node --version`
+
+Follow along with the course linked above. To start the server:
+
+```
+npm install
+npm start
+```
+
+Links
+---------------
+https://jcoop.io/angular-2-practice-exercises/
+https://github.com/jmcooper/ng2-fundamentals
+https://github.com/angular/quickstart
+http://plnkr.co/
