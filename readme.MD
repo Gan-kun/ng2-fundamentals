@@ -16,7 +16,7 @@ npm start
 
 Links
 ---------------
-https://jcoop.io/angular-2-practice-exercises/
-https://github.com/jmcooper/ng2-fundamentals
-https://github.com/angular/quickstart
-http://plnkr.co/
+* [Original Github for the course](https://github.com/jmcooper/ng2-fundamentals)
+* [Practice/Exercise](https://jcoop.io/angular-2-practice-exercises/)
+* [Angular Quickstart](https://github.com/angular/quickstart)
+* [Plunker](http://plnkr.co/)
