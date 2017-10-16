@@ -6,22 +6,13 @@ import { Component } from '@angular/core'
     <div>
       <h1>Upcoming Angular 2 Events</h1>
       <hr/>
-      <div class="well hoverwell thumbnail">
-        <h2>{{event.name}}</h2>
-        <div>Date: {{event.date}}</div>
-        <div>Time: {{event.time}}</div>
-        <div>Price: \${{event.time}}</div>
-        <div>
-          <span>Location: {{event.location.address}}</span>
-          <span>&nbsp;</span>
-          <span>{{event.location.city}}, {{event.location.country}}</span>
-        </div>
-      </div>
+      <event-thumbnail (eventClick)="handleEventClicked($event)"
+      [event]="event1"></event-thumbnail>
     </div>
-    `
+   `
 })
 export class EventsListComponent {
-    event = {
+    event1 = {
       id: 1,
       name: 'Angular Connect',
       date: '9/26/2036',
@@ -33,5 +24,9 @@ export class EventsListComponent {
         city: 'London',
         country: 'England',
       }
+    }
+
+    handleEventClicked(data) {
+      console.log('Received: ', data);
     }
 }
