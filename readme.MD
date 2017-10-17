@@ -22,3 +22,5 @@ Links
 * [Angular Quickstart](https://github.com/angular/quickstart)
 * [Plunker](http://plnkr.co/)
 * [Scalable and Modular Architecture for CSS](http://smacss.com/)
+* [Toastr - Toast notification](https://github.com/CodeSeven/toastr)
+* [TypeScript DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
