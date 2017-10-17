@@ -17,6 +17,8 @@ npm start
 Links
 ---------------
 * [Original Github for the course](https://github.com/jmcooper/ng2-fundamentals)
+* [Helper files for the course](https://github.com/jmcooper/angular2-fundamentals-files)
 * [Practice/Exercise](https://jcoop.io/angular-2-practice-exercises/)
 * [Angular Quickstart](https://github.com/angular/quickstart)
 * [Plunker](http://plnkr.co/)
+* [Scalable and Modular Architecture for CSS](http://smacss.com/)
