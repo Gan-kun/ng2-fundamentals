@@ -4,5 +4,5 @@
         "app/**/*.js": true,
         "app/**/*.js.map": true
     },
-      "editor.minimap.enabled": false
+    "editor.minimap.enabled": false
 }

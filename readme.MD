@@ -24,3 +24,4 @@ Links
 * [Scalable and Modular Architecture for CSS](http://smacss.com/)
 * [Toastr - Toast notification](https://github.com/CodeSeven/toastr)
 * [TypeScript DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
